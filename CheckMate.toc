@@ -1,0 +1,7 @@
+## Interface: 110002
+## Title: CheckMate
+## Notes: Smart todo list with auto-tracking for daily, weekly and permanent tasks
+## Author: YourName
+## Version: 2.0.0
+## SavedVariables: CheckMateDB
+CheckMate.lua
